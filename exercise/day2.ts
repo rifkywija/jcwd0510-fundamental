@@ -62,3 +62,6 @@ for(let i =1;i<=number3;i++){
     n1=n2;
     n2=nextTerm
 }
+
+console.log();1
+console.log();1
