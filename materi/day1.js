@@ -35,3 +35,4 @@ console.log(person2);
 //boolean-> true dan false
 //null-> menandakan value yang belum diisi(masih kosong)
 //undifined->variabel tidak ada isinya / kosong
+
