@@ -2,9 +2,30 @@
 
 == kisi kisi by one ==
 
-type of var let const 
-build method array
+type of var let const
+1. var : memiliki cakupan fungsi,bisa dideklarasikan ulang dan diperbarui 
+         dalam cakupannya
+2. let : memiliki cakupan blok, tidak bisa dideklarasikan ulang
+         dalam cakupan yang sama,tetapi bisa diperbarui.
+3. const: memiliki cakupan blok,tidak bisa dideklarasikan ulang 
+          atau diperbarui,harus diinisialisasi saat deklarasi 
+
+Buid In Method dlm js dibagi menjaadi 3 method
+- string method 
+1. charAt (index)= mengembalikan karakter pada posisi tertentu
+2. concat(str)-> menggabungkan 2 string menjadi satu
+3.incloud(substring) -> memeriksa apakah string mengandung substring tertentu
+4.split(separator) -> memisahkan string menjadi array berdasarkan separator
+5. replace (searchValue,newValue)-> mengganti bagian tertenti dari string dengan string baru 
+
+- array methods
+1.push() -> menambahkan elemen ke akhir array
+2.pop -> menghapus elemen terakhir dari array
+3.slice(start,and) -> mengambil bagian dari array
+4.concat(arr) -> menggabungkan 2 array menjadi 1
+
 naming convention variable
+
 fifo dan lifo
 looping!
 primitiv non primitiv
@@ -83,7 +104,5 @@ LIFO DAN FIFO
 
 LIFO: (Last In,Fisrt Out), FIFO: (First In,first out)
 
-1. push() : menambahkan array
-2. pop() : menghapus elemen terakhir yang ditambahkan
-3.peek() : melihat element paling atas tanpa menghapusnya
 
+*/
