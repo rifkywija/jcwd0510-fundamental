@@ -1,0 +1,89 @@
+/*
+
+== kisi kisi by one ==
+
+type of var let const 
+build method array
+naming convention variable
+fifo dan lifo
+looping!
+primitiv non primitiv
+big o notation
+
+
+
+
+
+== Intro Programing ==
+
+cd nama folder = masuk folder
+cd../= untuk kembali ke folder sebelumnya
+Is = untuk melihat isi dalam folder
+
+biasakan pake const jika hanya untuk menampung nilai variable tetap.
+
+const digunakan untuk nilai tetap dan tidak akan dirubah.
+let digunakan jika nilai variable akan diubah
+
+1. toLowerCase() ->
+2. toUpperCase() ->
+3. replace() ->
+4. replaceAll() ->
+5. split () ->
+6. concat () ->
+7. slice () ->
+8. toString () ->
+
+== Math ==
+
+1. Math.ceil = membulatkan angka keatas
+2. Math.floor = membullatkan angka kebawah
+3. Math.around = membulatkan angka terdekat
+4. Math.max = mengembalikkan angka terbesar dari sekumpulan angka
+5. Math.min = mengembalikkan angka terkecil dari sekumpulan angka 
+6. Math.abs = menghilangkan angka negatif
+7. Math.random = menghasilkan angka acak antara 0 dan 1
+
+
+== IF STATMENT == 
+syntax:
+
+if(condition){
+  codeblock
+}else{
+  codeblock
+}
+
+== Else If Statment ==
+syntax:
+
+if (condition){
+   codeblock
+}else if(condition){
+   codeblock
+}else if(condition){
+   codeblock
+}
+
+loop statment
+
+1. For Loop
+2. For of loop
+3. For in loop
+4. while loop
+5. do while loop
+
+== Github ==
+1. git add .
+2. git commit -m "note"
+3. git push origin main
+
+== Data Structur ==
+LIFO DAN FIFO
+
+LIFO: (Last In,Fisrt Out), FIFO: (First In,first out)
+
+1. push() : menambahkan array
+2. pop() : menghapus elemen terakhir yang ditambahkan
+3.peek() : melihat element paling atas tanpa menghapusnya
+
